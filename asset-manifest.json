@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_cakeshopping_project/static/css/main.b1386871.css",
+    "main.js": "/react_cakeshopping_project/static/js/main.dde73d09.js",
+    "static/media/shopping.png": "/react_cakeshopping_project/static/media/shopping.77b4687a25c15d5eb3fa.png",
+    "index.html": "/react_cakeshopping_project/index.html",
+    "main.b1386871.css.map": "/react_cakeshopping_project/static/css/main.b1386871.css.map",
+    "main.dde73d09.js.map": "/react_cakeshopping_project/static/js/main.dde73d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1386871.css",
+    "static/js/main.dde73d09.js"
+  ]
+}
