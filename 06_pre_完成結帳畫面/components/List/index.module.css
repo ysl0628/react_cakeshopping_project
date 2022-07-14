@@ -1,0 +1,7 @@
+.List {
+    position: absolute;
+    top: 120rem;
+    bottom: 90rem;
+    /* background-color:bisque; */
+    overflow: auto;
+}

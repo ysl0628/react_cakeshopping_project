@@ -1,0 +1,43 @@
+.CheckoutItem{
+    display: flex;
+    align-items: center;
+    padding: 10rem;
+}
+
+.ItemImg {
+    width: 140rem;
+}
+
+.ItemImg img {
+    width: 100%;
+}
+
+.Desc {
+    flex: auto;
+    margin-left: 20rem;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+}
+
+.Title {
+    font-size: 32rem;
+    line-height: 28rem;
+}
+
+.PriceBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Price {
+    font-size: 30rem;
+    font-weight: bold;
+}
+
+.Price::before {
+    content: '＄';
+    font-weight: normal;
+    font-size: 24rem;
+}

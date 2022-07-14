@@ -1,0 +1,38 @@
+.Bar {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 700rem;
+    height: 80rem;
+    background-color: #333;
+    bottom: 20rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 40rem;
+    z-index: 9999;
+}
+
+.CheckButton {
+    border: none;
+    background-color: #FCBF49;
+    width: 200rem;
+    border-radius: 40rem;
+    font-size: 36rem;
+}
+
+.TotalPrice {
+    display: flex;
+    align-items: center;
+    line-height: 10rem;
+    margin-left: 50rem;
+    color: #fff;
+    font-weight: bold;
+    font-size: 36rem;
+}
+
+.TotalPrice::before {
+    content: '合計 $';
+    font-size: 26rem;
+    padding-right: 10rem;
+}

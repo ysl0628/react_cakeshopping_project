@@ -1,0 +1,35 @@
+.FilterItem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 120rem;
+    z-index: 999;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.InputOuter{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.SearchInput{
+    width: 650rem;
+    height: 70rem;
+    border: none;
+    border-radius: 18px;
+    background-color: #f2f2f2;
+    padding-left: 60rem;
+    outline: none;
+    font-size: 34rem;
+}
+
+.SearchIcon{
+    color: rgb(134, 132, 131);
+    font-size: 40rem;
+    position: absolute;
+    left: 15rem;
+}
