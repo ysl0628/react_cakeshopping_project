@@ -12,7 +12,7 @@ const ITEMS_DATA = [
     title: '檸檬塔',
     desc: '選用酸甜的檸檬調合奶油交織出清爽滑順的檸檬奶醬，搭配烘烤至香酥的塔皮與海綿蛋糕',
     price: 70,
-    img: '/asset/cake/1.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20190813164249350.jpg'
   },
   {
     id: v4(),
