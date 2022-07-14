@@ -6,7 +6,7 @@
 }
 
 .ImgBox{
-    width: 280rem;
+    max-width: 200rem;
 }
 
 img{

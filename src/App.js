@@ -12,49 +12,49 @@ const ITEMS_DATA = [
     title: '檸檬塔',
     desc: '選用酸甜的檸檬調合奶油交織出清爽滑順的檸檬奶醬，搭配烘烤至香酥的塔皮與海綿蛋糕',
     price: 70,
-    img: '/img/cake/1.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20190813164249350.jpg'
   },
   {
     id: v4(),
     title: '巴斯克風焦糖起司蛋糕',
     desc: '濃郁的巴斯克起司蛋糕為主體，層層向上堆疊有巧克力堅果甘納許、焦糖慕斯。',
     price: 130,
-    img: '/img/cake/2.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20220308135406155.jpg'
   },
   {
     id: v4(),
     title: '栗子布蕾焦糖蛋糕',
     desc: '鬆軟的焦糖風味戚風蛋糕，抹上栗子奶油與放入栗子塊，中間夾入滑嫩烤布蕾。',
     price: 120,
-    img: '/img/cake/3.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20220510121401290.jpg'
   },
   {
     id: v4(),
     title: '芒果香緹布蕾蛋糕',
     desc: '夏季限定！滿滿鮮甜的台灣在地芒果搭配香緹鮮奶油，再夾入一層蛋香濃郁的烤布蕾。',
     price: 140,
-    img: '/img/cake/4.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20220510121829571.jpg'
   },
   {
     id: v4(),
     title: '法式千層薄餅',
     desc: '一片片輕薄Q彈的法式餅皮，搭配香氣迷人的香草卡士達餡，非常誘人。',
     price: 95,
-    img: '/img/cake/5.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20220707180240289.jpg'
   },
   {
     id: v4(),
     title: '經典起司蛋糕',
     desc: '使用濃郁的Cream Cheese及酸奶創造出綿密香濃的乳酪蛋糕，非常誘人。',
     price: 100,
-    img: '/img/cake/6.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20220707180406313.jpg'
   },
   {
     id: v4(),
     title: '咖啡巧克力松露蛋糕',
     desc: '以義大利烘焙咖啡融合巧克力蛋糕，其中蘊含迷人的巧克力榛果及酥脆的餅乾脆片。',
     price: 85,
-    img: '/img/cake/7.jpg'
+    img: 'https://www.starbucks.com.tw/common/objects/images/cake/20220707180436196.jpg'
   }
 ]
 
